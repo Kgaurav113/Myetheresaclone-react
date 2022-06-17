@@ -1,0 +1,53 @@
+.imgstory{
+    width:500px;
+}
+.btnstory{
+    background-color: black;
+    color: blanchedalmond;
+    height: 30px;
+    width: 100px;
+}
+.storygrid{
+    display: grid;
+    grid-template-columns: repeat(2,0fr);
+    grid-gap: 20px;
+    margin: auto;
+    justify-content: center;
+   
+}
+.storypara{
+    position: relative;
+    top: -120px;
+    margin-left: 30px;
+}
+.storyimg1{
+    margin:80px;
+    justify-content: center;
+    align-items: center;
+}
+.btnstory:hover
+{
+    cursor: pointer;
+    background-color: red;
+}
+.storybuttomdiv{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    grid-gap: 10px;
+}
+
+
+.storybtmimg{
+    height: 500px;
+    width: 100%;
+}
+.strimg1{
+    width:100%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}

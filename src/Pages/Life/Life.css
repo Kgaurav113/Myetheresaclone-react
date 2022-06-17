@@ -1,0 +1,14 @@
+
+.lifediv1{
+ margin: auto;
+   
+  width: 80%;
+  justify-content: center;
+   
+}
+.lifeimg1{
+    width: 100%;
+}
+.lifediv1:hover{
+    cursor: pointer;
+}

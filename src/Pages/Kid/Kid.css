@@ -1,0 +1,38 @@
+.kidflex{
+    display: flex;
+
+height:550px;
+}
+.kidpicdiv1{
+    width:50%;
+}
+.kiddiv1{
+width: 80%;
+margin: auto;
+}
+.kidpicdiv1 img{
+    width:100%;
+}
+.kid1para{
+    position: relative;
+    top: -250px;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    font-size: xx-large;
+}
+.div21{
+    
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top:-150px;
+    font-size: xx-large;
+}
+.div21btn{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}

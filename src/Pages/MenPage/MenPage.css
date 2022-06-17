@@ -1,0 +1,52 @@
+
+
+/* ---------- */
+.cont{
+    display: block;
+}
+.mimage{
+    width:90%;
+    height: 650px;
+    margin:auto;
+    background-image: url('https://img.mytheresa.com/media/static/raw/cms/l/MW_HP_CW24_2022/DESKTOP_2X_20220613124405.jpg?imwidth=1180&imdensity=1');
+background-size:max;
+
+    text-align: center;
+font-size: large;
+}
+.mimage>img{
+    width:100%;
+    
+}
+#mimg{
+    height: 100%;
+    margin-top: 5vw;
+}
+.masterslide{
+    margin-top: 15vw;
+}
+
+.headingof{
+    margin-bottom: 5px;
+}
+.mimage div{
+    margin:200px;
+    justify-content: center;
+    text-align: center;
+    padding: 200px 200px 200px 200px;
+  
+    
+}
+.mimage1{
+    display: flex;
+}
+.first1div{
+    background-color: black;
+    color: white;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    padding-top: 300px;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

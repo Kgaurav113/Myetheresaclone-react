@@ -1,0 +1,23 @@
+.myimgkid{
+    width: 84%;
+    height: 365px;
+    
+    margin: 0% 8% 3% 8%;
+    background-image: url('https://img.mytheresa.com/media/static/raw/cms/l/KW_HP_2022_June/Homepage_Kids_BabyBanner_desktop_2x_20220602092439.jpg?imwidth=1180&imdensity=1');
+    display: flex;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+.kidDiv{
+    /* margin: 21%; */
+    display: flex;
+    color: white;
+    font-size: 54px;
+    font-weight: 380;
+    align-items: center;
+    
+    justify-content: center;
+    /* border: 3px solid yellow; */
+    width:100%
+}
