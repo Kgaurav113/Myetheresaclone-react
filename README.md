@@ -1,4 +1,4 @@
-# Mytheresa Clone [Mytheresa Clone](https://mytheresaclone.netlify.app/))
+# Mytheresa Clone [Mytheresa Clone](https://62ac661a9fe021460541f16e--mytheresacloneg.netlify.app/))
 Mytheresa is a German e-commerce luxury fashion company, with headquarters in Munich, Germany. Founded in 2006, it operates local-language based websites for international markets in English, German, Spanish, French, Italian, Arabic, Chinese and Korean. Its CEO is Michael Kliger. 
 
 ## Technologies used :-
